@@ -1,0 +1,15 @@
+C:\Users\Senai.CEPEAS21103946\Desktop\VS2022 John-20251002T163834Z-1-001\Exercício 13\Exercício 13\obj\Debug\net7.0\Exercício 13.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\VS2022 John-20251002T163834Z-1-001\Exercício 13\Exercício 13\obj\Debug\net7.0\Exercício 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21103946\Desktop\VS2022 John-20251002T163834Z-1-001\Exercício 13\Exercício 13\obj\Debug\net7.0\Exercício 13.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\VS2022 John-20251002T163834Z-1-001\Exercício 13\Exercício 13\obj\Debug\net7.0\Exercício 13.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21103946\Desktop\VS2022 John-20251002T163834Z-1-001\Exercício 13\Exercício 13\obj\Debug\net7.0\Exercício 13.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\VS2022 John-20251002T163834Z-1-001\Exercício 13\Exercício 13\bin\Debug\net7.0\Exercício 13.exe
+C:\Users\Senai.CEPEAS21103946\Desktop\VS2022 John-20251002T163834Z-1-001\Exercício 13\Exercício 13\bin\Debug\net7.0\Exercício 13.deps.json
+C:\Users\Senai.CEPEAS21103946\Desktop\VS2022 John-20251002T163834Z-1-001\Exercício 13\Exercício 13\bin\Debug\net7.0\Exercício 13.runtimeconfig.json
+C:\Users\Senai.CEPEAS21103946\Desktop\VS2022 John-20251002T163834Z-1-001\Exercício 13\Exercício 13\bin\Debug\net7.0\Exercício 13.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\VS2022 John-20251002T163834Z-1-001\Exercício 13\Exercício 13\bin\Debug\net7.0\Exercício 13.pdb
+C:\Users\Senai.CEPEAS21103946\Desktop\VS2022 John-20251002T163834Z-1-001\Exercício 13\Exercício 13\obj\Debug\net7.0\Exercício 13.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\VS2022 John-20251002T163834Z-1-001\Exercício 13\Exercício 13\obj\Debug\net7.0\refint\Exercício 13.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\VS2022 John-20251002T163834Z-1-001\Exercício 13\Exercício 13\obj\Debug\net7.0\Exercício 13.pdb
+C:\Users\Senai.CEPEAS21103946\Desktop\VS2022 John-20251002T163834Z-1-001\Exercício 13\Exercício 13\obj\Debug\net7.0\Exercício 13.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\VS2022 John-20251002T163834Z-1-001\Exercício 13\Exercício 13\obj\Debug\net7.0\ref\Exercício 13.dll
