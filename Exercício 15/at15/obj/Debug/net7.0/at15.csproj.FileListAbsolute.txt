@@ -1,0 +1,15 @@
+C:\Users\Senai.CEPEAS21103946\Desktop\FSTUDIO\at15\at15\bin\Debug\net7.0\at15.exe
+C:\Users\Senai.CEPEAS21103946\Desktop\FSTUDIO\at15\at15\bin\Debug\net7.0\at15.deps.json
+C:\Users\Senai.CEPEAS21103946\Desktop\FSTUDIO\at15\at15\bin\Debug\net7.0\at15.runtimeconfig.json
+C:\Users\Senai.CEPEAS21103946\Desktop\FSTUDIO\at15\at15\bin\Debug\net7.0\at15.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\FSTUDIO\at15\at15\bin\Debug\net7.0\at15.pdb
+C:\Users\Senai.CEPEAS21103946\Desktop\FSTUDIO\at15\at15\obj\Debug\net7.0\at15.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\FSTUDIO\at15\at15\obj\Debug\net7.0\at15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21103946\Desktop\FSTUDIO\at15\at15\obj\Debug\net7.0\at15.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\FSTUDIO\at15\at15\obj\Debug\net7.0\at15.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21103946\Desktop\FSTUDIO\at15\at15\obj\Debug\net7.0\at15.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\FSTUDIO\at15\at15\obj\Debug\net7.0\at15.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\FSTUDIO\at15\at15\obj\Debug\net7.0\refint\at15.dll
+C:\Users\Senai.CEPEAS21103946\Desktop\FSTUDIO\at15\at15\obj\Debug\net7.0\at15.pdb
+C:\Users\Senai.CEPEAS21103946\Desktop\FSTUDIO\at15\at15\obj\Debug\net7.0\at15.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21103946\Desktop\FSTUDIO\at15\at15\obj\Debug\net7.0\ref\at15.dll
